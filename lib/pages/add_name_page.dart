@@ -14,7 +14,7 @@ class _AddNamePageState extends State<AddNamePage> {
   Widget build(BuildContext context) {
     return Scaffold(
       appBar: AppBar(
-        title: const Text('Add Name'),
+        title: const Text('Agregar'),
       ),
       body: Padding(
         padding: const EdgeInsets.all(15.0),
